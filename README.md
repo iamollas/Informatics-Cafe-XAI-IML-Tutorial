@@ -31,4 +31,4 @@ To test the LF Bot set the directory to the LionForests-Bot folder and then type
 ```bash
 python app.py
 ```
-Then, access the webpage printed in your terminal and try the bot itself
+Then, access the webpage printed in your terminal and try the bot yourself.
